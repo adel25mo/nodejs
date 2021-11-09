@@ -37,7 +37,7 @@ const readNote = (title)=>{
     if (note) {
         console.log(note.body)
     }else{
-        console.log('not found')
+        console.log('not found !!')
     }
 }
 
